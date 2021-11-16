@@ -1,0 +1,20 @@
+---
+content_type: page
+title: Lecture Notes
+uid: 1a7120c6-2fd4-fdbc-ba6f-219a57f98f87
+---
+
+The following is a collection of lecture notes related to the cases studied in each session, prepared by Paul Osterman.
+
+| SES # | TOPICS | LECTURE NOTES |
+| --- | --- | --- |
+|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: Habitat for Humanity International {{< br >}}{{< br >}} Introduction, Overview of Non-Profits ([PDF]({{< baseurl >}}/resources/nonprofitclass1)) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Strategy/Growth {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: STRIVE {{< br >}}{{< br >}} STRIVE ([PDF]({{< baseurl >}}/resources/nonprofitclass2)), Teaching Notes ([PDF]({{< baseurl >}}/resources/strivenotes)) {{< br >}}{{< br >}} Guest: Ned Rimer, Co-Founder and Managing Director, Citizen Schools {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Managing The Workforce {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: Shepard Quraeshi Associates (A) {{< br >}}{{< br >}} Non-profit HR Issues ([PDF]({{< baseurl >}}/resources/nonprofitclass3)), Teaching Notes ([PDF]({{< baseurl >}}/resources/jsiteachingnotes)) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Governance {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: The NAACP {{< br >}}{{< br >}} NAACP ([PDF]({{< baseurl >}}/resources/nonprofitclass4)), Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnotes)) {{< br >}}{{< br >}} Guest: William Pounds, Professor, MIT; Board of Directors, MFA {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Evaluation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: The Harlem Children's Zone: Driving Performance with Measurement and Evaluation {{< br >}}{{< br >}} Evaluation ([PDF]({{< baseurl >}}/resources/nonprofitclass5)), Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnotes5)) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Funding, Marketing {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: Amnesty International {{< br >}}{{< br >}} Amnesty International Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnote1)) {{< br >}}{{< br >}} Guest: Lance Ozier, Vice President Finance and Administration & Vice President for National Program Marketing & Board Affairs, WGBH {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Organizational Change {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: The Roman Catholic Diocese of San Jose {{< br >}}{{< br >}} The Diocese ([PDF]({{< baseurl >}}/resources/nonprofitclass6)), Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnotes7)) {{< br >}}{{< br >}} Guest: Paul Levy, President and CEO, Beth Israel Deaconess Medical Center {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Universities {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: Trinity College (A) {{< br >}}{{< br >}} Trinity Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnote8)) {{< br >}}{{< br >}} Guest: Lawrence Bacow, President, Tufts University {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Foundations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: EMCF (Edna McConnell Clark Foundation): A New Approach at an Old Foundation {{< br >}}{{< br >}} EMCF Teaching Notes ([PDF]({{< baseurl >}}/resources/teachingnotes9)) {{< br >}}{{< br >}} Guest: Paul Grogan, President and CEO, The Boston Foundation {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Consulting For The Non-Profit Sector {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Case: The Bridgespan Group {{< br >}}{{< br >}} Guest: George Chu, The Bridgespan Group {{< br >}}{{< br >}}
